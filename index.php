@@ -13,8 +13,8 @@
         <label for="text">Paste your text here:</label><br>
         <textarea id="text" name="text" rows="10" cols="50" required></textarea><br><br>
         
-        <label for="sort">Sort by frequency:</label>
-        <select id="sort" name="sort">
+        <label for="sort_order">Sort by frequency:</label>
+        <select id="sort_order" name="sort_order">
             <option value="asc">Ascending</option>
             <option value="desc">Descending</option>
         </select><br><br>
